@@ -11,8 +11,8 @@ Para utilizar esta plantilla, cree un nuevo proyecto ionic utilizando la utilida
 Toma el nombre después `ionic2-starter-`, Y ese es el nombre de la plantilla que se utilizará al usar el `ionic start` Comando abajo:
 
 ```bash
-$ sudo npm install -g ionic cordova
-$ ionic start myTutorial tutorial
+$ npm install -g cordova ionic
+$ cd #MiAplicacion# ionic serve
 ```
 
 Luego, para ejecutarlo, cd entra `myTutorial` y correr:
