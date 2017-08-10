@@ -2,7 +2,7 @@ Esta es una plantilla inicial para [Ionic](http://ionicframework.com/docs/) proj
 
 ## Cómo usar esta plantilla
 
-*Esta plantilla no funciona por sí sola*. Los archivos compartidos de cada iniciador se [ionic2 de su pagina para instalarla](https://ionicframework.com/getting-started/).
+*Esta plantilla no funciona por sí sola*. Los archivos compartidos de cada iniciador se [ionic de su pagina para instalarla](https://ionicframework.com/getting-started/).
 
 Para utilizar esta plantilla, cree un nuevo proyecto ionic utilizando la utilidad ionic node.js, O copiar los archivos de este repositorio en el[Starter App Base](https://github.com/ionic-team/ionic2-app-base).
 
