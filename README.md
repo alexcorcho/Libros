@@ -1,6 +1,6 @@
 Esta es una plantilla inicial para [Ionic](http://ionicframework.com/docs/) projects.
 
-## How to use this template
+## Cómo usar esta plantilla
 
 *This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
 
