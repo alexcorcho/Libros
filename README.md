@@ -2,25 +2,24 @@ Esta es una plantilla inicial para [Ionic](http://ionicframework.com/docs/) proj
 
 ## Cómo usar esta plantilla
 
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
+*Esta plantilla no funciona por sí sola*. Los archivos compartidos de cada iniciador se [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
 
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
+Para utilizar esta plantilla, cree un nuevo proyecto ionic utilizando la utilidad ionic node.js, O copiar los archivos de este repositorio en el[Starter App Base](https://github.com/ionic-team/ionic2-app-base).
 
-### With the Ionic CLI:
+### Con Ionic CLI:
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
+Toma el nombre después `ionic2-starter-`, Y ese es el nombre de la plantilla que se utilizará al usar el `ionic start` Comando abajo:
 
 ```bash
 $ sudo npm install -g ionic cordova
 $ ionic start myTutorial tutorial
 ```
 
-Then, to run it, cd into `myTutorial` and run:
+Luego, para ejecutarlo, cd entra `myTutorial` y correr:
 
 ```bash
 $ ionic cordova platform add ios
 $ ionic cordova run ios
 ```
 
-Substitute ios for android if not on a Mac.
-
+Sustituya ios por android si no está en un Mac.
