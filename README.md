@@ -12,7 +12,7 @@ Toma el nombre después `ionic2-starter-`, Y ese es el nombre de la plantilla qu
 
 ```bash
 $ npm install -g cordova ionic
-$ cd #MiAplicacion# ionic serve
+$ cd *MiAplicacion* ionic serve
 ```
 
 Luego, para ejecutarlo, cd entra `myTutorial` y correr:
